@@ -4,4 +4,4 @@
 ^ Membuat Role User
 - View
 ^terdiri dari crud
-- ROle
+- Role, Usermanagement terdiri kendali controller dan blade
