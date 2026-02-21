@@ -1,0 +1,7 @@
+- Modul
+- Contoller
+^ membuat User
+^ Membuat Role User
+- View
+^terdiri dari crud
+- ROle
